@@ -9,4 +9,5 @@ Benjamin Yan</br>
 ## Job Security
 - AI impact score on three sectors: agriculture, industry, and service
 - Level of risk that AI impacts the inequality
+- Metric description:
 - 🔗 [link](https://github.com/suim-park/AI-and-Inequalities/tree/main/Job%20Security)
